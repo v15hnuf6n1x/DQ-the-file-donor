@@ -167,7 +167,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a target="_blank" href="https://render.com/deploy?repo=https://github.com/v15hnuf6n1x/TechMagazine-AutoFilterBot"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
+<a target="_blank" href="https://render.com/deploy?repo=https://github.com/v15hnuf6n1x/DQ-the-file-donor"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
 </details>
 
 <details><summary>Deploy To VPS</summary>
